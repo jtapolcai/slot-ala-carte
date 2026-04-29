@@ -1,6 +1,6 @@
 # RANDAO Forking Attack Simulator
 
-A Python/C++ simulation framework for analysing **RANDAO biasability attacks** on Ethereum's proof-of-stake consensus.  An adversary with fraction `alpha` of total stake can selectively publish or withhold blocks to bias the RANDAO beacon, gaining a disproportionate share of proposer slots in future epochs.
+A Python simulation framework for analysing **RANDAO biasability attacks** on Ethereum's proof-of-stake consensus.  An adversary with fraction `alpha` of total stake can selectively publish or withhold blocks to bias the RANDAO beacon, gaining a disproportionate share of proposer slots in future epochs.
 
 ## Overview
 
